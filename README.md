@@ -1,2 +1,2 @@
 # Perbandingan_kriptografi
-UAS Kriptografi
+UTS Kriptografi
